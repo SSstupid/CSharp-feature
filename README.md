@@ -71,8 +71,8 @@ dotnet new console -f net5.0
     
 예제는 Program.cs에서 볼수 있습니다.   
 .NET Conf 2021 x Seoul을 기반으로 작성했습니다.      
-동영상이 아닌지라;;;  간편구문으로 변하는 과정이 난잡하게 보이네요. (┬┬﹏┬┬)
-
+동영상이 아닌지라;;;  간편구문으로 변하는 과정이 난잡하게 보이네요. (┬┬﹏┬┬)  
+곧 C# 10.0으로 찾아뵙겠습니다.
 
 
 참조 : https://devblogs.microsoft.com/dotnet/the-net-language-strategy        
