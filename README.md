@@ -13,7 +13,7 @@
     ```
 ### 최상위 문             
 <img src=https://user-images.githubusercontent.com/90036120/138667912-af08a1f7-f6c8-46c9-966a-bc298a6c78a6.JPG width="300" height="240"/> =>
-<img src=https://user-images.githubusercontent.com/90036120/138667908-ac88c02e-343f-4962-a85a-d329e2bd3b5b.JPG width="300" height="200"/> =>
+<img src=https://user-images.githubusercontent.com/90036120/138667908-ac88c02e-343f-4962-a85a-d329e2bd3b5b.JPG width="290" height="200"/> =>
 ![Syntax3](https://user-images.githubusercontent.com/90036120/138668381-6b81e745-113c-41d7-8f1b-e107c690b7ff.JPG)         
       
 하나 이상의 cs파일을 둘경우 명확한 Main 메소드를 두어야함.    
