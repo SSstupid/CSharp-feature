@@ -1,3 +1,8 @@
+# 버전 별 특징
+![image](https://github.com/SSstupid/CSharp-feature/assets/90036120/c59bcd18-88b4-4ad9-9ccb-a29e357dc81d)
+ref: https://nietras.com/2023/11/14/dotnet-and-csharp-versions/
+
+
 # C# 9.0 feature
  ### C# Strategy
  * Evolve and Innovate  (진화 및 혁신)
